@@ -1,0 +1,14 @@
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\bin\Debug\net8.0\CELULAR COM POO.exe
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\bin\Debug\net8.0\CELULAR COM POO.deps.json
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\bin\Debug\net8.0\CELULAR COM POO.runtimeconfig.json
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\bin\Debug\net8.0\CELULAR COM POO.dll
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\bin\Debug\net8.0\CELULAR COM POO.pdb
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.AssemblyInfoInputs.cache
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.AssemblyInfo.cs
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.csproj.CoreCompileInputs.cache
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.dll
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\refint\CELULAR COM POO.dll
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.pdb
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\CELULAR COM POO.genruntimeconfig.cache
+C:\Users\kaio_\OneDrive\Documents\CURSOS\DIO\PROJETOS\CELULAR COM POO\obj\Debug\net8.0\ref\CELULAR COM POO.dll
